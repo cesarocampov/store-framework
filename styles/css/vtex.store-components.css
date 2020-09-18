@@ -15,6 +15,7 @@
 }
 .infoCardCallActionContainer :hover{
     background-color: white;
+    border: transparent;
 }
 
 .infoCardContainer{
