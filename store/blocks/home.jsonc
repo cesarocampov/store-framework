@@ -23,7 +23,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockclass": "vintage"
+      "blockClass": "vintage"
 
     }
   },
@@ -37,7 +37,8 @@
       "callToActionUrl":"/sale/d",
       "textAlignment":"center",
       "imageUrl":"https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
-      "subhead":"Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020."
+      "subhead":"Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
+      "blockClass":"metal"
 
     }
   }
