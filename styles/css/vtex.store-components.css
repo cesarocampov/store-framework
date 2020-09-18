@@ -13,12 +13,16 @@
     background-color: gray;
     border: transparent;
 }
+
 .infoCardContainer{
     max-width: 1260px;
     margin: 0 auto;
     padding: 0;
 
 }
+.infoCardContainer--vintage {
+    background-color: #edcfd1
+  }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;

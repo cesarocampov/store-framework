@@ -4,7 +4,6 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left"
-      
     ]
   },
   "rich-text":{
@@ -23,7 +22,8 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockclass": "vintage"
 
     }
   },
